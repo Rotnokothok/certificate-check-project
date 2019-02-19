@@ -1,0 +1,140 @@
+/*All Custom Css Will Add here*/
+
+.height{
+    height:700px;
+    
+}
+.topMenu{
+    height:50px;
+    background-color:#990099;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding-top:10px;
+    font-size: 25px;
+    
+}
+
+.sideBackground{
+    background-color:#ff00cc;
+    position: relative;
+    
+}
+.mainBackground{
+    background-color:#06FFFF;
+    padding:0px 25px 0px 25px;
+}
+h2{
+    margin-top:-20px;
+    
+}
+div .container{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.titleText{
+    font-size: 40px;
+    font-family: bold;
+    color:blue;
+}
+.titleText2{
+    font-size: 30px;
+    color:red;
+}
+.button{
+    border-radius: 10px;
+    width:300px;
+    height:40px;
+    color:white;
+    font-size-adjust: inherit;
+    font-size: 30px;
+    alignment-adjust: auto;
+    background-color: #006600;
+    margin:auto;
+   
+}
+.contentArea{
+    border:1px solid gray;
+    width:90%;
+    height:500px;
+    margin-top: 100px;
+    margin:auto;
+}
+@font-face {
+  font-family: bold;
+  src:url(../fonts/BlackOpsOne-Regular.ttf);
+}
+
+p{
+    color:white;
+    font-weight: bold;
+    
+    
+}
+
+
+#chk{
+    border-radius: 0px 15px 15px 0px;
+    background-color:green;
+    color:white;
+    font-weight: bold;
+    padding:5px; 
+    
+}
+#data{
+    border-radius: 15px 0px 0px 15px;
+    padding:5px 10px;
+   
+}
+
+
+.Author{
+    height:250px;
+    width:200px;
+    border:3px solid green;
+    margin:auto;
+}
+.text-custom{
+    color:ghostwhite;
+    font-weight: bold;
+    
+}
+/*This is Extra CSS*/
+/**{
+    box-sizing: border-box;
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    margin-top:0px;
+}
+
+.col-1{width:8.33%;}
+.col-2{width:16.66%;}
+.col-3{width:25%;}
+.col-4{width:33.33%;}
+.col-5{width:41.66%;}
+.col-6{width:50%;}
+.col-7{width:58.33%;}
+.col-8{width:66.66%;}
+.col-9{width:75%;}
+.col-10{width:83.33%;}
+.col-11{width:91.66%;}
+.col-12{width:100%;}
+
+
+[class*='col-']{
+    float:left;
+    border:.5px solid black;
+}
+
+.imgRespnsive{
+    height:100%;
+    width:100%;
+}
+@font-face {
+  font-family: fgfgf;
+  src: sds;
+}*/
